@@ -18,13 +18,11 @@
   [<img src = "https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>]()
   [<img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>]()
   [<img src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>]()
-  [<img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>]()
   [<img src = "https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>]()
-  [<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>]()
   [<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>]()
 
 #
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=night)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=night&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 
 # &#x26A0; Banned
            ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
