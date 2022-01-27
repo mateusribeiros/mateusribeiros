@@ -22,7 +22,7 @@
   [<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>]()
 
 #
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=great-gatsby&card_width=2&line_height=1.5&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=great-gatsby&card_width=2&line_height=3&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 # &#x26A0; Banned
            ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
