@@ -26,3 +26,8 @@
         ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
+<summary> 
+    ::marker
+    <g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji>
+    " Resume"
+</summary>
