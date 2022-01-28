@@ -21,7 +21,7 @@
   [<img src = "https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&style=width:5px"/>]()
   [<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&style=width:5px"/>]()
 #
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=monokai&card_width=1.1&show_owner&hide=prs,issues&style=width:350;max-width: 100%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuxe&show_icons=true&theme=monokai&card_width=1.1&show_owner&hide=prs,issues&style=width:350)](https://github.com/anuraghazra/github-readme-stats)
 # &#x26A0; Banned
         ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
         ྾ Contradict facts proven by science;
