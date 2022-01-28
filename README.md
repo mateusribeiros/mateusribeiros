@@ -2,10 +2,10 @@
     I am a 20 year old Brazilian and currently a student in search of broad and specific knowledge.
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=width:5px"/>](https://www.linkedin.com/in/mateus-eduardo-757522218/) 
-  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mateuxe/)
-  [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Moscomano)
-  [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">]()
-  [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=width:5px">](https://www.instagram.com/mateuxe/)
+  [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=width:5px">](https://www.facebook.com/Moscomano)
+  [<img src = "https://img.shields.io/badge/mateuxe#8772-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=width:5px">](https://discord.com/channels/mateuxe#8772)
+  [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=width:5px">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
 
 # &#x1F4CA; &#x1F4DA;Technologies & Tools
   [<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>]()
