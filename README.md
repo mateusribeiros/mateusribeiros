@@ -27,7 +27,18 @@
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
 <summary> 
-    ::marker
+    ::marker 
     <g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji>
-    " Resume"
+      Resume
 </summary>
+
+style {
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+}
