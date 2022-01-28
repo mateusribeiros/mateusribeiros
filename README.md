@@ -27,4 +27,4 @@
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
 
-<a href = "https://github.com/mateuxe/myaba" target = "_blank">For more</a>
+<a href = "https://github.com/mateuxe/myaba" target = "_blank"> &#x2714;For more</a>
