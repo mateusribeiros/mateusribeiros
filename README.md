@@ -1,5 +1,5 @@
 # Hii, I'm mateuxe & I &#x1F90D; code!
-    I'm 20 years old from Brazil and currently a programming student in search of broad and specific knowledge.
+    I'm 20 years old, brazilian man and currently a programming student in search of broad and specific knowledge.
 
  Contact-> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=width:5px"/>](https://www.linkedin.com/in/mateus-eduardo-757522218/) 
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=width:5px">](https://www.instagram.com/mateuxe/)
