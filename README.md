@@ -2,7 +2,7 @@
     I'm 20 years old, brazilian man and currently a Information Security Especialist in search of broad and specific knowledge.
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=80"/>](https://www.linkedin.com/in/mateusribeiros/)              [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=80">](https://discord.com/channels/mateusribeiros#8772)               [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=80">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=100"/>](https://www.linkedin.com/in/mateusribeiros/)  [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=100">](https://discord.com/channels/mateusribeiros#8772)  [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=100">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
  
  
  
