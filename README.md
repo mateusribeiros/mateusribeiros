@@ -1,7 +1,10 @@
 # Hii, I'm mateus & I &#x1F90D; code!
-    I'm 20 years old, brazilian man and currently a FullStack Developer in search of broad and specific knowledge.
+    I'm 20 years old, brazilian man and currently a Information Security Especialist in search of broad and specific knowledge.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=60"/>](https://www.linkedin.com/in/mateusribeiros/) [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=60">](https://discord.com/channels/mateuxe#8772)   [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=60">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=60"/>](https://www.linkedin.com/in/mateusribeiros/)              [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=60">](https://discord.com/channels/mateuxe#8772)               [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=60">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+ 
+ 
  
 # &#x1F4CA; &#x1F4DA;Technologies & Tools
   [<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=width:5px"/>]()
@@ -22,10 +25,12 @@
   [<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />]()
   [<img src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />]()
 
+
 # &#x26A0; Banned
         ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
+        
 #
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeiros&show_icons=true&theme=monokai&card_width=1.1&show_owner&hide=prs,issues&style=width:350)](https://github.com/anuraghazra/github-readme-stats)
  
