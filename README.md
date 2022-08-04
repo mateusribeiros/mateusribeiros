@@ -2,7 +2,7 @@
     I'm 20 years old, brazilian man and currently a Information Security Especialist in search of broad and specific knowledge.
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=60"/>](https://www.linkedin.com/in/mateusribeiros/)              [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=60">](https://discord.com/channels/mateuxe#8772)               [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=60">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5👈.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=80"/>](https://www.linkedin.com/in/mateusribeiros/)              [<img src = "https://img.shields.io/badge/Discord-7289DA👈?style=for-the-badge&logo=discord&logoColor=white?logoWidth=80">](https://discord.com/channels/mateusribeiros#8772)               [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836👈?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=80">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
  
  
  
@@ -20,14 +20,14 @@
   [<img src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&style=width:5px"/>]()
   [<img src = "https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&style=width:5px"/>]()
   [<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&style=width:5px"/>]()
-  [<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>]()
-  [<img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />]()
-  [<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />]()
-  [<img src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />]()
+  [<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&style=width:5px"/>]()
+  [<img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=width:5px" />]()
+  [<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=width:5px" />]()
+  [<img src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&style=width:5px" />]()
 
 
 # &#x26A0; Banned
-        ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice);
+        ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice, chauvinism);
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
         
