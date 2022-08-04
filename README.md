@@ -1,7 +1,7 @@
 # Hii, I'm mateus & I &#x1F90D; code!
     I'm 20 years old, brazilian man and currently a FullStack Developer in search of broad and specific knowledge.
 
- Contact-> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=width:10px&style=height:10px"/>](https://www.linkedin.com/in/mateusribeiros/) [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=width:10px&style=height:10px">](https://discord.com/channels/mateuxe#8772)[<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=width:10px&style=height:10px">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
+ Contact-> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=width:20px&style=height:20px"/>](https://www.linkedin.com/in/mateusribeiros/) [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=width:20px&style=height:20px">](https://discord.com/channels/mateuxe#8772)   [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=width:20px&style=height:20px">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
  
 # &#x1F4CA; &#x1F4DA;Technologies & Tools
   [<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=width:5px"/>]()
