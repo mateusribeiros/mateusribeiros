@@ -30,8 +30,5 @@
         ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice, chauvinism);
         ྾ Contradict facts proven by science;
         ྾ Malicious comments.
-        
-#
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusribeiros&show_icons=true&theme=monokai&card_width=1.1&show_owner&hide=prs,issues&style=width:350)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 <a href = "https://github.com/mateusribeiros/myaba" target = "_blank"> &#x2714;For more</a>
