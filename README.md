@@ -25,10 +25,4 @@
   [<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=width:5px" />]()
   [<img src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&style=width:5px" />]()
 
-
-# &#x26A0; Banned
-        ྾ Not allowed any kind of prejudice (racism, lgbtphobia, class prejudice, chauvinism);
-        ྾ Contradict facts proven by science;
-        ྾ Malicious comments.
-
 <a href = "https://github.com/mateusribeiros/myaba" target = "_blank"> &#x2714;For more</a>
