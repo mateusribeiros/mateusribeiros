@@ -1,5 +1,5 @@
-# Hii, I'm mateus & I &#x1F90D; code!
-    Security must take the focus when developing, enabling construction with a minimum of vulnerabilities to be exploited. Management and Security are my passions.
+# Hey, I'm mateus!
+    Security must take the focus when developing, enabling construction with a minimum of vulnerabilities to be exploited. Management and Security are my job.
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=100"/>](https://www.linkedin.com/in/mateusribeiros/)  [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white?logoWidth=100">](https://discord.com/channels/mateusribeiros#8772)  [<img src = "https://img.shields.io/badge/mateuseduardosilvar@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=100">](mailto:mateuseduardosilvar@gmail.com?subject=Olá,Mateus!)
