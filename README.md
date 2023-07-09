@@ -51,5 +51,3 @@ I'm a 21-year-old Brazilian with a strong passion for Security, Software Develop
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeiros&layout=compact&langs_count=7&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusribeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
- 
-<a href = "https://github.com/mateusribeiros/aboutMe" target = "_blank"> &#x2714;For more ABOUT</a>
