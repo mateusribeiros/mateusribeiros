@@ -40,14 +40,3 @@ I'm a 21-year-old Brazilian with a strong passion for Security, Software Develop
 <code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/kubernetes-svgrepo-com.svg" alt="KUBERNETES" width="40" height="40"/></code>
 <code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/linux-svgrepo-com.svg"  alt="LINUX" width="40" height="40"/></code>
 <code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/aws-svgrepo-com.svg" alt="AWS"  width="40" height="40" /></code>
-
-
-</br>
-</br>
-
-##
-<p align="center">
-<a href="https://github.com/mateusribeiros">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusribeiros&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusribeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
