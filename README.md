@@ -1,8 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/mateusribeiros/mateusribeiros/blob/main/octocat-github.png">
-
-</br>
-</br>
- 
  <h1 align="left">Mateus Ribeiros </h1>
  <a href="https://mail.google.com/mail/u/0/?to=mateuseduardosilvar@gmail.com&su=Hey,+Mateus!&fs=1&tf=cm">
     <img align="left" width="70px" src="https://github.com/mateusribeiros/mateusribeiros/blob/main/gmail-svgrepo-com.svg" alt="email" style="vertical-align:top; target="_blank"">
