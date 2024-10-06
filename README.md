@@ -27,16 +27,5 @@ I'm a 21-year-old Brazilian with a strong passion for Security, Software Develop
 <code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/python-svgrepo-com.svg" alt="PYTHON" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="WINDOWS"  width="40" height="40"/></code>
 <code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/js-svgrepo-com.svg"  alt="JAVASCRIPT" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/react-svgrepo-com.svg" alt="REACT" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"  width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/css-3-svgrepo-com.svg" alt="CSS" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/html-svgrepo-com.svg" alt="HTML"  width="40" height="40"/></code>
 
-
-                  
-### &#x1F4DA; Learning:
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/terraform-icon-svgrepo-com.svg"  alt="TERRAFOR" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/docker-svgrepo-com.svg"  alt="DOCKER" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/kubernetes-svgrepo-com.svg" alt="KUBERNETES" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/linux-svgrepo-com.svg"  alt="LINUX" width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/aws-svgrepo-com.svg" alt="AWS"  width="40" height="40" /></code>
