@@ -16,11 +16,4 @@
 
 ## Hey everyone, I'm MATEUS!!
 
-I'm a 21-year-old Brazilian with a strong passion for Security, Software Development, Cloud, and Automation.
-
-### 🖥️ Technologies & Tools
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/python-svgrepo-com.svg" alt="PYTHON" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="WINDOWS"  width="40" height="40"/></code>
-<code><img src="https://github.com/mateusribeiros/mateusribeiros/blob/main/js-svgrepo-com.svg"  alt="JAVASCRIPT" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"  width="40" height="40"/></code>
-
+I'm a Brazilian with a strong passion for Security, Software Development, Cloud, and Automation.
